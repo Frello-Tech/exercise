@@ -1,1 +1,1 @@
-renard
+<?php echo 'renard'; ?>
